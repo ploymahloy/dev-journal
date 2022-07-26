@@ -10,3 +10,5 @@ Journal for tracking web dev progress.
 
 7.25.2022
 - I cannot get even my codepen ^ to work in my NextJS project. I'm bashing my head against the wall trying to understand how this can work in my project. Days like these I think it best to call it a night.
+- I coudn't help myself and tried again. I was able to get one option, the dropdown above the navbar, to come close to what I want. Although it's not in the navbar, it's a step in the right direction....I hope.... (Reflection: This is too little progress for a few hours' work. This is not sustainable. I need to be more productive, and THAT is where my frustration lies).
+<img width="631" alt="Screen Shot 2022-07-25 at 9 36 32 PM" src="https://user-images.githubusercontent.com/48275526/180903766-f8110a6d-8766-4d1c-8dab-64de6b0d0526.png">
