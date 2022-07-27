@@ -14,4 +14,6 @@ Journal for tracking web dev progress.
 <img width="631" alt="Screen Shot 2022-07-25 at 9 36 32 PM" src="https://user-images.githubusercontent.com/48275526/180903766-f8110a6d-8766-4d1c-8dab-64de6b0d0526.png">
 
 7.26.2022 
-- Something I am realizing about myself is that I make things harder than they need to be. Here I am trying to use divs and spans to create a dropdown menu from scratch (with success, see codepen), when the STANDARD is to use a select tag with nested option tags. Knowing the standard from the jump would have been more helpful, but I need to start assuming that everything I am trying to accomplish at this stage has been done, redone, reformatted, and rebranded. I don't need to create problems, I need to create projects.
+- Something I am realizing about myself is that I make things harder than they need to be. Here I am trying to use JUST divs and spans to create a dropdown menu from scratch (see codepen from 7.24, it functions, but only in a vaccuum). I completely ignored that the STANDARD is to use a select tag with nested option tags. Knowing the standard and acknowledging it from the jump would have been more helpful. I need to start assuming that everything I am trying to accomplish at this stage has been done, redone, reformatted, and rebranded. I don't need to create problems, I need to create projects. I need to start my career.
+- It works!
+<img width="391" alt="Screen Shot 2022-07-26 at 11 10 40 PM" src="https://user-images.githubusercontent.com/48275526/181152536-fcb01691-57c1-4992-94ec-8e67207995f7.png">
