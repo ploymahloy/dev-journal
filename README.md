@@ -1,6 +1,8 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+7.29.2022
+- I found an [article](https://bobbyhadz.com/blog/react-add-event-listener-to-body) that may be the final piece of the puzzle. I just need to set up an event listener to detect clicks outside of the dropdown menu. Then, I can use that to trigger a function to close the menu (`display: 'none'`).
 
 7.27.2022
 - Something I'm realizing is that if I can put into words what I'm trying to accomplish, I can better articulate a Google search. Better yet, if I can articulate what I'm trying to do in my code, the solution has already been posted thousands of times online. An example of this is something that happened today: I wanted to use font awesome icons as the `menu_title` in my dropdown menu component, but couldn't figure out how to do it. For whatever reason, I thought to make a vanilla js switch statement where if the `menu_title` prop value was a string, then it would display the string as the title. Otherwise, the title would display the icon based on key-value pairs (menu_title={1} ----> 1: <FontAwesomeIcon icon={faBars} />). This completely bypasses React's functionality and doesn't really make sense as a long-term solution. I even realized what was going on and said "wait, all I'm trying to do is pass the jsx as a prop value...." 10 seconds later I referenced a project that passes jsx as a prop value via curly braces `menu_title={<FontAwesomeIcon icon={faBars} />}`. Better by the day!
