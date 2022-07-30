@@ -3,6 +3,7 @@ Journal for tracking web dev progress.
 
 7.30.2022
 - A week after I started logging my progress, I was able to create solve a problem I'm not sure could have been solved without the reflection that a journal provides. I tried learning Redux from some YouTube videos but I kept getting red errors despite following their instructions exactly. I think I'm going to give an article on Redux a try.
+- Tying up some loose ends I've been sitting on a mortgage caclulator site for a while. Ive got the logic functioning properly, but it looks ridiculous. Fortunately, I spent the past week dealing with CSS properties in React so I should at least be able to make a site look right.
 
 7.29.2022
 - I found an [article](https://bobbyhadz.com/blog/react-add-event-listener-to-body) that may be the final piece of the puzzle. I just need to set up an event listener to detect clicks outside of the dropdown menu. Then, I can use that to trigger a function to close the menu (`display: 'none'`).
