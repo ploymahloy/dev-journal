@@ -2,7 +2,9 @@
 Journal for tracking web dev progress.
 
 7.31.2022
-- I looked at the portfolio/projects of one of my cohorts from my bootcamp that got a dev job after graduation. The portfolio page had 'noob' written all over it, and the projects were not anything special. It inspired me to remove ChartJS from the mortgage calculator app, and added an svg pattern background with an inset box shadow to bring focus to the app itself. I'm going to do something similar to the dictionary app as it doesn't look incredibley appealing either. Once I get that done, I'm going to redeploy (chaged homepage urls) the two projects, rework my personal site as it's not super greatm and then start applying to jobs finally. I'm so close, and I can't wait to start my dev career.
+- I looked at the portfolio/projects of one of my cohorts from my bootcamp that got a dev job after graduation. The portfolio page had 'noob' written all over it, and the projects were not anything special. It inspired me to remove ChartJS from the mortgage calculator app, and added an svg pattern background with an inset box shadow to bring focus to the app itself. I'm going to do something similar to the dictionary app as it doesn't look incredibley appealing either. Once I get that done, I'm going to redeploy (chaged homepage urls) the two projects, rework my personal site as it's not super greatm and then start applying to jobs finally. I'm so close, and I can't wait to start my dev career. Before && After:
+<img width="1279" alt="Screen Shot 2022-07-31 at 9 01 31 PM" src="https://user-images.githubusercontent.com/48275526/182054013-599a3177-c67d-4b0f-8f31-0ee4dc58168e.png">
+<img width="1275" alt="Screen Shot 2022-07-31 at 9 02 07 PM" src="https://user-images.githubusercontent.com/48275526/182054017-76b1be07-0b04-493f-9149-e59a9d57deeb.png">
 
 7.30.2022
 - A week after I started logging my progress, I was able to create solve a problem I'm not sure could have been solved without the reflection that a journal provides. I tried learning Redux from some YouTube videos but I kept getting red errors despite following their instructions exactly. I think I'm going to give an article on Redux a try.
