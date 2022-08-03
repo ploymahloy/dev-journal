@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.2.2022
+- I was inspired to do something different and made a nav bar inspired by Brutalism ([CodePen](https://codepen.io/ploymahloy/pen/ZExrMXE?editors=1100)). I think I'll be dedicating all day tomorrow to the sorting algorithm visualizer. It was one of the projects that caught Google's eye for Clément Mihailescu, supposedly. I like the idea of impressing prospective employers. I like the idea of a coding job.
+
 8.1.2022
 - I made a list of things to accomplish this week. Since the mortgage app, dictionary app, and cli calculator are all somewhat small in scale, I've decided to add an eCommerce project site (in addition to the All Access clone) to my portfolio. I plan to have the eCommerce site, the homepage of All Access, my personal site (revamped), the dictionary app (revamped), and my resume done by this time next week. Time to execute!
 - Stumbling through NextJS, I'm enjoying the process so much more because I have more knowledge to support me while debugging, for example. I had a hell of a time just staying awake at work so my lack of focus on code after work has not been surprising. Tomorrow is an earlier day for me so I'll make up the difference then. There's no sense in overdoing it...but I did end up starting on the All Access clone homepage anyway...less to do tomorrow!
