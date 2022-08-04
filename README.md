@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.3.2022
+- I might have my first freelance client! My friend works for a home improvement company and the owner, with whom he is close, has expressed interest in a website. Currently, the business gets their customers via word of mouth, and their Facebook pages seems to come up high on Google searches for services they provide. This could be a HUGE milestone, despite the technical works being as easy as I want it to be with templates being wideley available.
+
 8.2.2022
 - I was inspired to do something different and made a nav bar inspired by Brutalism ([CodePen](https://codepen.io/ploymahloy/pen/ZExrMXE?editors=1100)). I think I'll be dedicating all day tomorrow to the sorting algorithm visualizer. It was one of the projects that caught Google's eye for Clément Mihailescu, supposedly. I like the idea of impressing prospective employers. I like the idea of a coding job.
 - Since I had a lazy day with coding, I decided to make another [CodePen](https://codepen.io/ploymahloy/pen/YzaedZQ) for kicks. I had been toying with the concept of an inverted color overlay for a few days and wanted to see it come to fruition:
