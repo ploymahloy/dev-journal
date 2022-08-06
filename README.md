@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.6.2022 
+- Got somewhere with the personal site. I need to figure out why I get a hydration issue just from wrapping react icons in a div. It's so frustrating because I know nothing about that so now I have to try to understand a relatively advanced topic just to get my icons to work in a grid. I had a rough week so I doubt that will happen today.
+
 8.5.2022
 - I can NOT put into words how much I hate my personal site. I redesigned it to include a more subtle variation of the Brutalist buttons I made a few days ago. It bothers me how hard it is for me to design a damn website. I know I just need a good reference, but I can't find one that I like that is also within reach in terms of my skillset. I spent a whole damn week and a half at least just writing a dropdown menu from scratch...
 
