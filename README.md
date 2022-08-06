@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.5.2022
+- I can NOT put into words how much I hate my personal site. I redesigned it to include a more subtle variation of the Brutalist buttons I made a few days ago. It bothers me how hard it is for me to design a damn website. I know I just need a good reference, but I can't find one that I like that is also within reach in terms of my skillset. I spent a whole damn week and a half at least just writing a dropdown menu from scratch...
+
 8.3.2022
 - I might have my first freelance client! My friend works for a home improvement company and the owner, with whom he is close, has expressed interest in a website. Currently, the business gets their customers via word of mouth, and their Facebook pages seems to come up high on Google searches for services they provide. This could be a HUGE milestone, despite the technical works being as easy as I want it to be with templates being wideley available.
 
