@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.8.2022 
+- It turns out that the reason I've been getting these hydration errors is because I'm refreshing the page as if I'm not developing on a live server (terminology) or whatever. When I commit my changes and start the server over, problem solved. Worked on the personal site today. Working on it some more now. Probably going to finish v1 tonight or tomorrow, then get the All Access Clone homepage done by the weekend, then finalize my resume (which is 80% of the way done). I'm very excited to be getting so close to job-ready!
+
 8.7.2022
 - Put in some WORK on my personal site. My breakpoints were all over the place! Had breakpoints set at 920 AND 900? Like what? I think it would help if, when I open VSCode, I focus on a specific objective to COMPLETION, of some variety. As of right now, I build one thing halfway, then something looks off so I jump to that, and I end up bouncing all over my project. Either way, all that's left to do for my personal site is to fill in the project cards (and link the buttons), and add the sidenav.
 - I built the sidenav menu! I used the logic from the All Access dropdown menu. I'm starting to see how much better I'm getting with recognizing what needs to be written to produce an intended effect (and what effect is truly meant to be created, but that's more of a question of design).
