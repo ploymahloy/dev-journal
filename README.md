@@ -3,6 +3,8 @@ Journal for tracking web dev progress.
 
 8.7.2022
 - Put in some WORK on my personal site. My breakpoints were all over the place! Had breakpoints set at 920 AND 900? Like what? I think it would help if, when I open VSCode, I focus on a specific objective to COMPLETION, of some variety. As of right now, I build one thing halfway, then something looks off so I jump to that, and I end up bouncing all over my project. Either way, all that's left to do for my personal site is to fill in the project cards (and link the buttons), and add the sidenav.
+- I built the sidenav menu! I used the logic from the All Access dropdown menu. I'm starting to see how much better I'm getting with recognizing what needs to be written to produce an intended effect (and what effect is truly meant to be created, but that's more of a question of design).
+![Untitled](https://user-images.githubusercontent.com/48275526/183334503-a7d5a3ec-2c2b-4d46-8c3e-3bd861b25894.gif)
 
 8.6.2022 
 - Got somewhere with the personal site. I need to figure out why I get a hydration issue just from wrapping react icons in a div. It's so frustrating because I know nothing about that so now I have to try to understand a relatively advanced topic just to get my icons to work in a grid. I had a rough week so I doubt that will happen today.
