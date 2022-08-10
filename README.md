@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.9.2022
+- I noticed a lot of blue is used throughout my apps so I redesigned the mortgage calculator. I'm coming really close to being able to deploy my portfolio site. Better get a domain soon... hireme.dev?
+
 8.8.2022 
 - It turns out that the reason I've been getting these hydration errors is because I'm refreshing the page as if I'm not developing on a live server (terminology) or whatever. When I commit my changes and start the server over, problem solved. Worked on the personal site today. Working on it some more now. Probably going to finish v1 tonight or tomorrow, then get the All Access Clone homepage done by the weekend, then finalize my resume (which is 80% of the way done). I'm very excited to be getting so close to job-ready!
 
