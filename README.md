@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.11.2022
+- Relying on a CSS framework is a rookie mistake, and I refuse to rely on anything that allows me bypass learning critical skills. I made a basic grid [here on Codepen](https://codepen.io/ploymahloy/pen/GRxBVBo?editors=1100) and found it to take significantly less time. I know I'll end up using a CSS framework for my web dev roles, but knowing how to use them and choosing not to is more powerful than relying on them and using them as a crutch. IMO of course, and I'm sure there are arguments that rest on the concept principle of saving time in production. We'll see!
+
 8.10.2022
 - God almighty I am not destined to EVER be able to use bootstrap's grid system. All I want to do is add padding/gutters and nothing I'm doing is working. Over this.
 
