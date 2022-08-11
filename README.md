@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.10.2022
+- God almighty I am not destined to EVER be able to use bootstrap's grid system. All I want to do is add padding/gutters and nothing I'm doing is working. Over this.
+
 8.9.2022
 - I noticed a lot of blue is used throughout my apps so I redesigned the mortgage calculator. I'm coming really close to being able to deploy my portfolio site. Better get a domain soon... hireme.dev?
 
