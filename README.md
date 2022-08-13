@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.13.2022
+- I can confirm that I will never use Bootstrap grid ever again after familiarizing myself with CSS Grid. I even found a [CSS Grid generator](https://cssgrid-generator.netlify.app/)! Of course, I'll be using this tool to speed up production, but also as a learning tool.
+
 8.11.2022
 - Relying on a CSS framework is a rookie mistake, and I refuse to rely on anything that allows me bypass learning critical skills. I made a basic grid [here on Codepen](https://codepen.io/ploymahloy/pen/GRxBVBo?editors=1100) and found it to take significantly less time. I know I'll end up using a CSS framework for my web dev roles, but knowing how to use them and choosing not to is more powerful than relying on them and using them as a crutch. IMO of course, and I'm sure there are arguments that rest on the concept principle of saving time in production. We'll see!
 
