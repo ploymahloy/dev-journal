@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.14.2022
+- I somehow managed to go this long without using tables. I may be able to pull off what I need to do without it, but I have a table of data to display and the `table` seemed to be the most obvious choice. I'm realizing there are so many weird quirks I need to learn regarding tables. It makes me wonder if I want to just hard-code the width of the cells and set `justify-content: space-between` and add padding. We'll see what happens after I sleep on it.
+
 8.13.2022
 - I can confirm that I will never use Bootstrap grid ever again after familiarizing myself with CSS Grid. I even found a [CSS Grid generator](https://cssgrid-generator.netlify.app/)! Of course, I'll be using this tool to speed up production, but also as a learning tool. Grid is too powerful to not master.
 - Inching my way toward completing the home page of the All Access clone (thus, making it deployable), I discovered the text-overflow property. I had to figure out how to truncate (new term) text with an ellipsis in a few different places. It seems like CSS was the focal point of today's studies.
