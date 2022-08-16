@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.15.2022
+- I feel like I squandered my day... I needed to add one more project to my portfolio site so I was kind of all over the place just trying to come up with something. I was working on a weather app in Vue, but it seemed too basic, even though it was built in Vue, so I switched gears. Then, I dug up an old to-do app project, but that was also 'too basic.' Then, I found I looked into memory games built in vanilla JS, and tic tac toe games. I'm more than likely going to go with a tic tac toe game initially built in vanilla JS to then recreate in Vue just to have some variety in my portfolio (I have no games or Vue projects). The bottom line, though, is that I wasted probably an hour just getting here. The concept of annoying oneself is new, but hey...coding...
+
 8.14.2022
 - I somehow managed to go this long without using tables. I may be able to pull off what I need to do without it, but I have a table of data to display and the `table` seemed to be the most obvious choice. I'm realizing there are so many weird quirks I need to learn regarding tables. It makes me wonder if I want to just hard-code the width of the cells and set `justify-content: space-between` and add padding. We'll see what happens after I sleep on it.
 
