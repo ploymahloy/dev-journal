@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.16.2022
+- In light of yesterday's quandry, I have decided to make a beat/song maker of sorts. Inspired by the [Punk-o-matic](https://www.newgrounds.com/portal/view/147276), the project will be comprised of a selection of instruments that have a 5-6 sound files that a user can pick from to create a short song. 
+
 8.15.2022
 - I feel like I squandered my day... I needed to add one more project to my portfolio site so I was kind of all over the place just trying to come up with something. I was working on a weather app in Vue, but it seemed too basic, even though it was built in Vue, so I switched gears. Then, I dug up an old to-do app project, but that was also 'too basic.' Then, I found I looked into memory games built in vanilla JS, and tic tac toe games. I'm more than likely going to go with a tic tac toe game initially built in vanilla JS to then recreate in Vue just to have some variety in my portfolio (I have no games or Vue projects). The bottom line, though, is that I wasted probably an hour just getting here. The concept of annoying oneself is new, but hey...coding...
 
