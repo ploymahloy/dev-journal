@@ -1,9 +1,12 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.17.2022 
+- I made a simple virtual calculator to add to my portfolio. It's by no means impressive, and it's my third app with 'calculator' in the name, but once I figure out this beat maker and design a template for NextJS I'll have 6 solid projects ready to be shown to prospective employers. Can't wait.
+
 8.16.2022
 - In light of yesterday's quandry, I have decided to make a beat/song maker of sorts. Inspired by the [Punk-o-matic](https://www.newgrounds.com/portal/view/147276), the project will be comprised of a selection of instruments that have a 5-6 sound files that a user can pick from to create a short song. 
-- I made samples for a kick, snare, and hihat for a drum set. I want to start small just while I'm getting the logic down so I made 3 buttons that play each sample on click, respectively. The next step is to trigger the same function that plays the samples in time, say 100bpm. Raekwon from Wu Tang made a lot of his beats around that tempo so I'll be starting there (and I might add an option to adjust this later in the project's development).
+- I made samples for a kick, snare, and hihat for a drum set. I want to start small just while I'm getting the logic down so I made 3 buttons that play each sample on click, respectively. The next step is to trigger the same function that plays the samples in time, say 100bpm. Raekwon from Wu Tang Clan made a lot of his beats around that tempo so I'll be starting there (and I might add an option to adjust this later in the project's development).
 
 8.15.2022
 - I feel like I squandered my day... I needed to add one more project to my portfolio site so I was kind of all over the place just trying to come up with something. I was working on a weather app in Vue, but it seemed too basic, even though it was built in Vue, so I switched gears. Then, I dug up an old to-do app project, but that was also 'too basic.' Then, I found I looked into memory games built in vanilla JS, and tic tac toe games. I'm more than likely going to go with a tic tac toe game initially built in vanilla JS to then recreate in Vue just to have some variety in my portfolio (I have no games or Vue projects). The bottom line, though, is that I wasted probably an hour just getting here. The concept of annoying oneself is new, but hey...coding...
