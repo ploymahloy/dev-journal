@@ -1,6 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.18.2022
+- I couldn't focus to save my life today. I was able to pseudo code the song maker, but will probably end up building something in Vanilla JS just to get it working. It's just a matter of connecting the logic below to the grid. Everything else I know how to do, but of course I'm stuck so I can't do anything until I fix this.
+<img width="422" alt="Screen Shot 2022-08-18 at 9 38 25 PM" src="https://user-images.githubusercontent.com/48275526/185524049-963656b2-a7e6-4abd-b28f-119ffa0090e4.png">
+
+
 8.17.2022 
 - I made a simple virtual calculator to add to my portfolio. It's by no means impressive, and it's my third app with 'calculator' in the name, but once I figure out this beat maker and design a template for NextJS I'll have 6 solid projects ready to be shown to prospective employers. Can't wait.
 
@@ -33,6 +38,7 @@ Journal for tracking web dev progress.
 8.7.2022
 - Put in some WORK on my personal site. My breakpoints were all over the place! Had breakpoints set at 920 AND 900? Like what? I think it would help if, when I open VSCode, I focus on a specific objective to COMPLETION, of some variety. As of right now, I build one thing halfway, then something looks off so I jump to that, and I end up bouncing all over my project. Either way, all that's left to do for my personal site is to fill in the project cards (and link the buttons), and add the sidenav.
 - I built the sidenav menu! I used the logic from the All Access dropdown menu. I'm starting to see how much better I'm getting with recognizing what needs to be written to produce an intended effect (and what effect is truly meant to be created, but that's more of a question of design).
+
 ![Untitled](https://user-images.githubusercontent.com/48275526/183334503-a7d5a3ec-2c2b-4d46-8c3e-3bd861b25894.gif)
 
 8.6.2022 
