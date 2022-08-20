@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.20.2022
+- I got my grid system to work! All I had to do was `.fill()` my array with `0` after I declared the length dynamically. Then, all I had to do was replace the 0s with 1s when the button was set to active. Initially, the issue I had was that I initialized an empty array, and tried iterating through the empty array with map to replace the empty index with the value of the cell (0 or 1). I learned, however, that you can't map or iterate over an empty array. This is why I chose to initalize an array of 0s. Now all I have to do is send `soundArr` and `instrument` to the `Playback` component; where I'll loop through the arrays to tempo (setInterval), and play the sound file for the instrument when the array's index is `1`.
+![Untitled (3)](https://user-images.githubusercontent.com/48275526/185759228-15dd5814-354c-4ce6-9c21-691c38c28c35.gif)
+
 8.19.2022
 - I have gotten closer to getting the song maker's grid system to work. Each row represents an array with each cell representing an index in the array. When I click on a cell, the console logs that number in the array (the index plus 1 since i starts at 1 and not 0).
 - I was also able to get the Play button to work using `setInterval` and used state to create conditional rendering of the play and stop icons. All I need to do is pass the Boolean value of the cells to their respective arrays
