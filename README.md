@@ -1,6 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.19.2022
+- I have gotten closer to getting the song maker's grid system to work. Each row represents an array with each cell representing an index in the array. When I click on a cell, the console logs that number in the array (the index plus 1 since i starts at 1 and not 0).
+- I was also able to get the Play button to work using `setInterval` and used state to create conditional rendering of the play and stop icons. All I need to do is pass the Boolean value of the cells to their respective arrays
+![Untitled (2)](https://user-images.githubusercontent.com/48275526/185723491-16164f10-a55b-413b-9c52-ca56b098e54e.gif)
+
 8.18.2022
 - I couldn't focus to save my life today. I was able to pseudo code the song maker, but will probably end up building something in Vanilla JS just to get it working. It's just a matter of connecting the logic below to the grid. Everything else I know how to do, but of course I'm stuck so I can't do anything until I fix this.
 <img width="422" alt="Screen Shot 2022-08-18 at 9 38 25 PM" src="https://user-images.githubusercontent.com/48275526/185524049-963656b2-a7e6-4abd-b28f-119ffa0090e4.png">
