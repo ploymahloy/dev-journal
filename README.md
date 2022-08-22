@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.21.2022
+- Earlier today I was working on the song maker. I can feel myself getting closer to how I want to shape the sound arrays. I knnow that I need to pass the data up to the App component from the Instrument component, but I'm unsure as to how I was to package multiple arrays. An array of arrays is the first thing that comes to mind, but how do I loop through an array of arrays? More for tomorrow.
+- Second thing I did was work on the NextJS template. What a pain in the ass! Next Image is the most frustrating tool I've ever tried to learn how to use. The fussing from that component dropve me insane. Fortunately, I was able to make it work and my template is almost done (after a few hours' work, I'm getting faster!)
+
 8.20.2022
 - I got my grid system to work! All I had to do was `.fill()` my array with `0` after I declared the length dynamically. Then, all I had to do was replace the 0s with 1s when the button was set to active. Initially, the issue I had was that I initialized an empty array, and tried iterating through the empty array with map to replace the empty index with the value of the cell (0 or 1). I learned, however, that you can't map or iterate over an empty array. This is why I chose to initalize an array of 0s. Now all I have to do is send `soundArr` and `instrument` to the `Playback` component; where I'll loop through the arrays to tempo (setInterval), and play the sound file for the instrument when the array's index is `1`.
 ![Untitled (3)](https://user-images.githubusercontent.com/48275526/185759228-15dd5814-354c-4ce6-9c21-691c38c28c35.gif)
