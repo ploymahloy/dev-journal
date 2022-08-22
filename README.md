@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.22.2022
+- I'm really close to finishing the Next Template. In the future I may redo the grid system with CSS Grid instead of Flexbox, but it works on all sceen sizes for now. The only reason to rework it would be to make the images larger on larger screens (>1700px), but it's definitely not a priority. I'm going to create a modal for the grid cells and commit the MVP. I'll probably have it deployed with a bow on it by the time I get off work.
+
 8.21.2022
 - Earlier today I was working on the song maker. I can feel myself getting closer to how I want to shape the sound arrays. I knnow that I need to pass the data up to the App component from the Instrument component, but I'm unsure as to how I was to package multiple arrays. An array of arrays is the first thing that comes to mind, but how do I loop through an array of arrays? More for tomorrow.
 - Second thing I did was work on the NextJS template. What a pain in the ass! Next Image is the most frustrating tool I've ever tried to learn how to use. The fussing from that component dropve me insane. Fortunately, I was able to make it work and my template is almost done (after a few hours' work, I'm getting faster!)
