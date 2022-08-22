@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.23.2022
+- Today marks a month since I began journaling and it has helped my development tremendously! It offers great reference for past lessons learned, it removes the emotional nature of the programming learning curve, and most importantly, it offers me insight on my skill development that I might not have otherwise.
+- I started going through W3School's Intro to Java. Many big companies use Java in their tech stack and I think it's a critical tool to have under wraps if I want to be competitive in their applicant pools. I'll spend more time developing in Java once I finish my portfolio projects.
+
 8.22.2022
 - I'm really close to finishing the Next Template. In the future I may redo the grid system with CSS Grid instead of Flexbox, but it works on all sceen sizes for now. The only reason to rework it would be to make the images larger on larger screens (>1700px), but it's definitely not a priority. I'm going to create a modal for the grid cells and commit the MVP. I'll probably have it deployed with a bow on it by the time I get off work.
 
