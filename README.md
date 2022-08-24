@@ -1,6 +1,17 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.24.2022
+- After talking to my friend on the phone, who is a React wiz, he mentioned that I need to make the `soundArr` app-level state since it's being used throughout the app. It makes sense, but it means I have to scrap my current solution to toggling cell values from 8/19. At least I have a better idea of how to move forward. Other than that, I spent my time coding today on cleaning up repeating components. One example of this is depicted below in the Next Template project. I consolidated all instances of the Artwork component by looping through an array of image src paths and rendering an Artwork component for each index in the array using `map()`.
+
+Before:
+<img width="272" alt="Screen Shot 2022-08-23 at 11 18 56 PM" src="https://user-images.githubusercontent.com/48275526/186315186-3c23b7db-715b-47f4-9b6f-79dcd6fa3577.png"> 
+After:
+<img width="220" alt="Screen Shot 2022-08-23 at 11 18 00 PM" src="https://user-images.githubusercontent.com/48275526/186315144-bb7bb8b8-fa20-43e9-b87a-3c02c46e92e8.png">
+
+- All I have to do is get the song maker fully functional, add modals to the artwork card components, and deploy then I'm job ready!
+
+
 8.23.2022
 - Today marks a month since I began journaling and it has helped my development tremendously! It offers great reference for past lessons learned, it removes the emotional nature of the programming learning curve, and most importantly, it offers me insight on my skill development that I might not have otherwise.
 - I started going through W3School's Intro to Java. Many big companies use Java in their tech stack and I think it's a critical tool to have under wraps if I want to be competitive in their applicant pools. I'll spend more time developing in Java once I finish my portfolio projects.
