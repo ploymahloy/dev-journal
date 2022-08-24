@@ -2,6 +2,9 @@
 Journal for tracking web dev progress.
 
 8.24.2022
+- I committed my song maker project as is because I want to be able to overhaul how the `soundArr` is passed throughout the app. Right now it's being edited in the Instrument component and it feels like it's working, but I also am unable to lift the value up so it's useless in it's current form. I need to do what my friend suggested and create a global variable (or state) and then build from there. I'm starting to think that Redux will be a good thing to learn for this project since the array will be used in every component of the app. More than likely, I'll save this for after I add the modal to the Next Template so that I can focus all my time and attention on the song maker.
+
+8.23.2022
 - After talking to my friend on the phone, who is a React wiz, he mentioned that I need to make the `soundArr` app-level state since it's being used throughout the app. It makes sense, but it means I have to scrap my current solution to toggling cell values from 8/19. At least I have a better idea of how to move forward. Other than that, I spent my time coding today on cleaning up repeating components. One example of this is depicted below in the Next Template project. I consolidated all instances of the Artwork component by looping through an array of image src paths and rendering an Artwork component for each index in the array using `map()`.
 
 Before:
@@ -12,9 +15,11 @@ After:
 - All I have to do is get the song maker fully functional, add modals to the artwork card components, and deploy then I'm job ready!
 
 
-8.23.2022
+8.22.2022
 - Today marks a month since I began journaling and it has helped my development tremendously! It offers great reference for past lessons learned, it removes the emotional nature of the programming learning curve, and most importantly, it offers me insight on my skill development that I might not have otherwise.
 - I started going through W3School's Intro to Java. Many big companies use Java in their tech stack and I think it's a critical tool to have under wraps if I want to be competitive in their applicant pools. I'll spend more time developing in Java once I finish my portfolio projects.
+
+Edit: I think I'll end up doing some basic Java project just to have, but my main focus once I get my first dev job is C++, namely the JUCE framework for audio plugins (Think equalizers and compression tools used in Logic, Pro Tools and Cubase).
 
 8.22.2022
 - I'm really close to finishing the Next Template. In the future I may redo the grid system with CSS Grid instead of Flexbox, but it works on all sceen sizes for now. The only reason to rework it would be to make the images larger on larger screens (>1700px), but it's definitely not a priority. I'm going to create a modal for the grid cells and commit the MVP. I'll probably have it deployed with a bow on it by the time I get off work.
