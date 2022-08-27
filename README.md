@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.26.2022
+- Just deployed the next template to Vercel. It was suprisingly easy, but the errors I had to fix didn't show until the build failed . The failures listed were stupid stuff like "you have to use a &983475 whatever instead of a `'`. Anyway, I need to finish the song maker so I can finally deploy my personal site and apply to jobs!
+
 8.24.2022
 - I committed my song maker project as is because I want to be able to overhaul how the `soundArr` is passed throughout the app. Right now it's being edited in the Instrument component and it feels like it's working, but I also am unable to lift the value up so it's useless in it's current form. I need to do what my friend suggested and create a global variable (or state) and then build from there. I'm starting to think that Redux will be a good thing to learn for this project since the array will be used in every component of the app. More than likely, I'll save this for after I add the modal to the Next Template so that I can focus all my time and attention on the song maker.
 - I got the modal in NextJS to work! I was confident that this would only take a youtube video to get right since I already know how to make a modal in React. All there is to do is pass the image source from the `pathArr` in the home file to the Modal component, and add some well-constructed placeholder text. After all, this is a template. I'm very excited because this means I will have 6/7 projects complete!
