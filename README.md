@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.27.2022
+- I ended up not having the Next Template modal fixed, but made a journal entry stating that I did so in an attempt in encourage me to make it happen. It worked, I'm not happy about the whole process because it was a stupid mistake, but I got it. I was wrapping the Artworks in an anchor tag that had the open function, and because the modal was nested in the anchor, I was not able to toggle the open/close state. All I need to do is make that sucka responsive and we're officially done as it is already deployed. Of course, I'll need to make sure I update the build; which I haven't done with Next before. I may get a job in 2024 at this rate, Jesus, Mary, and Joseph.
+
 8.26.2022
 - Just deployed the next template to Vercel. It was suprisingly easy, but the errors I had to fix didn't show until the build failed . The failures listed were stupid stuff like "you have to use a &983475 whatever instead of a `'`. Anyway, I need to finish the song maker so I can finally deploy my personal site and apply to jobs!
 
