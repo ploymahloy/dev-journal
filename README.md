@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.28.2022
+- I was able to find a video on how to update array state and it was increibley helpful, especially since the state is stored at the app level. I'm going to do some work on the song maker, which will utilize that logic, and add an overlay to the sidenav on the next template and my portfolio site. So 1 straightforward task times 2, and then all in on my last project. 
+
 8.27.2022
 - I ended up not having the Next Template modal fixed, but made a journal entry stating that I did so in an attempt in encourage me to make it happen. It worked, I'm not happy about the whole process because it was a stupid mistake, but I got it. I was wrapping the Artworks in an anchor tag that had the open function, and because the modal was nested in the anchor, I was not able to toggle the open/close state. All I need to do is make that sucka responsive and we're officially done as it is already deployed. Of course, I'll need to make sure I update the build; which I haven't done with Next before. I may get a job in 2024 at this rate, Jesus, Mary, and Joseph.
 - Got the Next Template project update and all that. The only issue is in the logo. For some reason that specific Google font is not working so I added a backup font just to put a band-aid on it for the time being. I'm very pleased to know that all I have to focus on for the remained of this process is the loop station/beat maker/song maker; which will ultimately be the death of me.
