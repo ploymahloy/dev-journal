@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.30.2022
+- I tweaked the mortgage calculator a bit; just the font-weight and mobile repsonse. I was going to add TailwindCSS but it didn't seem necessary. I don't like the idea of adding something that won't greatly contribute to the project. In addition to the All Access Clone, I think I need to put the song maker on hold. I was so damn close but I just need to get a portfolio finalized and THEN I can get that finished. I'm going to do a drag and drop puzzle in Typescript to give me my lucky number 7(th) project. After that, finish my resume and start applying. I need a damn dev job already.
+
 8.28.2022
 - I was able to find a video on how to update array state and it was increibley helpful, especially since the state is stored at the app level. I'm going to do some work on the song maker, which will utilize that logic, and add an overlay to the sidenav on the next template and my portfolio site. So 1 straightforward task times 2, and then all in on my last project. 
 
