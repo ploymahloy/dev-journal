@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+8.31.2022
+- I've been working on the drag and drop puzzle. The logic is from a W3 Schools page so I'm really just focusing on the layout at this point. I've been so unmotivated these past few days and I can't pinpoint why...
+
 8.30.2022
 - I tweaked the mortgage calculator a bit; just the font-weight and mobile repsonse. I was going to add TailwindCSS but it didn't seem necessary. I don't like the idea of adding something that won't greatly contribute to the project. In addition to the All Access Clone, I think I need to put the song maker on hold. I was so damn close but I just need to get a portfolio finalized and THEN I can get that finished. I'm going to do a drag and drop puzzle in Typescript to give me my lucky number 7(th) project. After that, finish my resume and start applying. I need a damn dev job already.
 
