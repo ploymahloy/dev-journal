@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.1.2022
+- Did work to my resume. Just need to finish it, the drag and drop puzzle, get a domain name, then I'm set for applications.
+
 8.31.2022
 - I've been working on the drag and drop puzzle. The logic is from a W3 Schools page so I'm really just focusing on the layout at this point. I've been so unmotivated these past few days and I can't pinpoint why...
 
