@@ -1,8 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.4.2022
+- I've been battling npm for hours now trying to understand what's going on. I can't use create react/next app or ever npm install. I've tried SO many different things, and I'm about to just clone an empty next project and use a TailwindCSS CDN just so I can get something going here. Again, there's no real guide, just bash your head against the wall until something works and learn from it.
+
 9.3.2022
-- Not a whole lot to log today other than some reading I've been doing. I want to get better with Typescript, but I find it difficult to convert Javscript projects to Typescript when I can't figure out how to fix the errors; which makes it pointless. I'm probably going to write an article at some point when I finally figure it out because there is no real guide on how to convert Javscript to Typescript. "Fix the errors" <-- yeah great advice. No shit.
+- Not a whole lot to log today other than some reading I've been doing. I want to get better with Typescript, but I find it difficult to convert Javscript projects to Typescript when I can't figure out how to fix the errors; which makes it pointless. I'm probably going to write an article at some point when I finally figure it out because there is no real guide on how to convert Javscript to Typescript. "Fix the errors" <-- yeah great advice. Super helpful. Might as well be saying "be good at coding."
 
 9.1.2022
 - Did work to my resume. Just need to finish it, the drag and drop puzzle, get a domain name, then I'm set for applications.
