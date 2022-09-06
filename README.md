@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.5.2022
+- Node/npm took a massive crap a day or so ago and I'm still struggling to understand what's going on. I managed to determine it is a network error so I'm convinced that I may need to do something DNS-related as it wouldn't be the first time. In the mean time, I finished my resume and added it to my personal site and am going to finish my linkedin profile. The job hunt begins immediately after; very exciting!
+
 9.4.2022
 - I've been battling npm for hours now trying to understand what's going on. I can't use create react/next app or ever npm install. I've tried SO many different things, and I'm about to just clone an empty next project and use a TailwindCSS CDN just so I can get something going here. Again, there's no real guide, just bash your head against the wall until something works and learn from it.
 
