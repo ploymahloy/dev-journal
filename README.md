@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.6.2022
+- I dug up an old laptop and put node on it just to try running `npm install` to see if it made a difference. The download still hangs, but I am looking forward to diagnosing error. If nothing else, I'll go to the local library to run `create-next-app` and `npm install` just to move the needle forward.
+- Apps sent: 5
+
 9.5.2022
 - Node/npm took a massive crap a day or so ago and I'm still struggling to understand what's going on. I managed to determine it is a network error so I'm convinced that I may need to do something DNS-related as it wouldn't be the first time. In the mean time, I finished my resume and added it to my personal site and am going to finish my linkedin profile. The job hunt begins immediately after; very exciting!
 
