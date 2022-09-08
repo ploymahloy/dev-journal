@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.7.2022
+- I went to the library and was able to run `create-react-app`, which confirms that it is my NETWORK that is the issue. How I'm going to fix this is beyond me. I hate networking. It's unbelievabley boring.
+
 9.6.2022
 - I dug up an old laptop and put node on it just to try running `npm install` to see if it made a difference. The download still hangs, but I am looking forward to diagnosing error. If nothing else, I'll go to the local library to run `create-next-app` and `npm install` just to move the needle forward.
 - Apps sent: 5
