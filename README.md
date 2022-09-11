@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.11.2022
+- Youtube is filled with terrible tutorials. I thought I found the right one, but after the 30 minute video was done, I only THEN discovered that it was for a Shopify app that would exist within Shopify itself, not a standalone site that used Shopify and GraphQL on the backend. Either way, I sent a reply to the people at Vaan Group and I'm going to do some more applications today. I also tweaked the Basic Calculator as it looked horrendous.
+
 9.8.2022
 - I heard back from a job! It's an ecommerce business so I'm going to take the weekend to work on my nextjs-tailwind-shopify app in hopes that I will impress the hiring manager.
 
