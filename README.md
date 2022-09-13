@@ -1,6 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.12.2022
+- I applied to 2 contracts for front end development. I would love to have both, but one of them in particular is just HTML. THAT would be a great thing to have just to blast through during my down time at work. Also, I found a HTML/CSS/JS Sorting Algorithm visualizer project that I plan on rebuilding in React. I think it would show a different level of understanding of how software works in regards to data processing. Anyone can learn HTML. Engineers learn about Big O. 
+
+Notes for Alg project: Add time complexities and timer display
+
 9.11.2022
 - Youtube is filled with terrible tutorials. I thought I found the right one, but after the 30 minute video was done, I only THEN discovered that it was for a Shopify app that would exist within Shopify itself, not a standalone site that used Shopify and GraphQL on the backend. Either way, I sent a reply to the people at Vaan Group and I'm going to do some more applications today. I also tweaked the Basic Calculator as it looked horrendous.
 
