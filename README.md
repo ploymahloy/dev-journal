@@ -1,8 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.14.2022
+- I need to work on freelancing and open source projects to get a competitive edge in the job market. Somehow, despite a booming job economy, there are still too many dev applicants. I started my evening by revamping my basic calculator. It looks more modern, and less noob-ish. I'm going to take a good look at some of my other projects. I know that I will be removing the mortgage calculator as soon as I have something to replace it with, or figure out a decent way to create create a donut chart from scratch.
+
 9.13.2022
-- Worked on the sorting algorithm project. I'm started to feel discouraged again and haven't been motivate to code since I got rejected from 150 <--- ONE HUNDRED FIFTY companies last time and I'm getting more rejections now. If this field needs workers so bad then why on Earth can't I get a job??? I've show my resume to friends, family and colleagues, polished it almost 50 times now over the past 2 years, worked on projects almost every day....GOD.
+- Worked on the sorting algorithm project. I'm starting to feel discouraged again and haven't been motivated to code since I got rejected from 150 <--- ONE HUNDRED FIFTY companies last time and I'm getting more rejections now. If this field needs workers so bad then why on Earth can't I get a job??? I've shown my resume to friends, family and colleagues, polished it almost 50 times now over the past 2 years, worked on projects almost every day....GOD.
 
 9.12.2022
 - I applied to 2 contracts for front end development. I would love to have both, but one of them in particular is just HTML. THAT would be a great thing to have just to blast through during my down time at work. Also, I found a HTML/CSS/JS Sorting Algorithm visualizer project that I plan on rebuilding in React. I think it would show a different level of understanding of how software works in regards to data processing. Anyone can learn HTML. Engineers learn about Big O. 
