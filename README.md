@@ -1,6 +1,12 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.15.2022
+- Today I applied for a few more jobs, started learning D3.js, and refactored my Project Organizer.
+  - Job Apps: I've noticed a few companies will tell you exactly what to expect from your time there before applying, while some job postings are just a jumbled paragraph of requirements and expectations. The clear winner, in my mind, is the one that takes the time to show off their transparency in a legible format. High standards go both ways, why should I work for a company that can't provide a decent job description?
+  - D3.js: I had no idea that D3 was a DOM manipulation library! I thought it was just used for data visualization, but it is very similar to jQuery. The whole point in learning this library is so that I can create a decent chart for the Mortgage Calculator. Otherwise, I WILL delete it from my portoflio as it is extremely underwhelming in it's current state.
+  - Project Organizer: This project was decent to begin with but it had a few issues. For starters, and I didn't even notice until last week, the grid doesn't expand past 3 cards per row. This makes the layout of the grid look strange on larger screens. This alone taught me to consider that responsive design includes extra large screens too. Second, there were some unused divs that I got rid of. Lastly, the logo was too large for screens smaller than 300px so I fixed that, too.
+
 9.14.2022
 - I need to work on freelancing and open source projects to get a competitive edge in the job market. Somehow, despite a booming job economy, there are still too many dev applicants. I started my evening by revamping my basic calculator. It looks more modern, and less noob-ish. I'm going to take a good look at some of my other projects. I know that I will be removing the mortgage calculator as soon as I have something to replace it with, or figure out a decent way to create create a donut chart from scratch.
 
