@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.19.2022 
+- After taking a few days off for life things, I started my portfolio refinement process by adding margins to the cards of the Project Organizer. I officially can't stand Bootstrap. Sass >>>>
+
 9.15.2022
 - Today I applied for a few more jobs, started learning D3.js, and refactored my Project Organizer.
   - Job Apps: I've noticed a few companies will tell you exactly what to expect from your time there before applying, while some job postings are just a jumbled paragraph of requirements and expectations. The clear winner, in my mind, is the one that takes the time to show off their transparency in a legible format. High standards go both ways, why should I work for a company that can't provide a decent job description?
