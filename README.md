@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.26.2022
+- Haven't taken a week from coding since I was understaffed at work. I gotta say, I'm extremely discouraged with the lack or response I've gotten from my applications. I can't seem to get anywhere in development so I'm probably going to start applying to IT roles just so I can start making some actual money. I at least worked on my website's navbar; though, I can't say I really got anywhere.
+
 9.19.2022 
 - After taking a few days off for life things, I started my portfolio refinement process by adding margins to the cards of the Project Organizer. I officially can't stand Bootstrap. Sass >>>>
 
