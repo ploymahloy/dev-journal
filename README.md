@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.28.2022
+- I signed up fro Dev.to and Twitter today. I did so as a recommendation from an accidental LinkedIn connection. I was so eager to network I didn't realize that he was also on the job hunt. Fortunately, he was kind enough to offer me job hunting advice. He told me my portfolio was solid and more than enough to get contract work. Very good news.
+
 9.27.2022
 - Worked on learning C++ today. I'm also looking at part-time and contract work. I want this so bad.
 
