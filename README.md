@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.27.2022
+- Worked on learning C++ today. I'm also looking at part-time and contract work. I want this so bad.
+
 9.26.2022
 - Haven't taken a week from coding since I was understaffed at work. I gotta say, I'm extremely discouraged with the lack or response I've gotten from my applications. I can't seem to get anywhere in development so I'm probably going to start applying to IT roles just so I can start making some actual money. I at least worked on my website's navbar; though, I can't say I really got anywhere.
 
