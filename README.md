@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+9.30.2022
+- This is becoming less of a dev journal and more of a dev job application tracker. Since my last entry, I've applied to 7 roles, and started networking with recruiters, hiring managers, and fellow job-seekers. In other news, I began coding in C++. I went through Mosh's C++ for Beginners video on YouTube and was glad I didn't skip over the basics. Now my more immediate objective is to build a vst plugin using the JUCE framework. The only problem for me is that I don't have a way of initializing a JUCE project in VSCode it seems so I may have to just download XCode just to follow the tutorial. 
+
 9.28.2022
 - I signed up fro Dev.to and Twitter today. I did so as a recommendation from an accidental LinkedIn connection. I was so eager to network I didn't realize that he was also on the job hunt. Fortunately, he was kind enough to offer me job hunting advice. He told me my portfolio was solid and more than enough to get contract work. Very good news.
 
