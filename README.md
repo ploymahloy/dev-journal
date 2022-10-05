@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+10.4.2022
+- I'm definitely starting to take a step back to analyze where I'm falling short; not just in development skills. I'm also no longer concerned with coding every single day, but making meaningful progress every day that I can. Putting so much pressure on myself is why it's taking me so long to begin my career in the first place. Everyone is getting calls for interviews but me, it seems, so I went back to my portfolio site and started working on its appearance. Progress pic (ignore the Fill Murray):
+<img width="1277" alt="Screen Shot 2022-10-04 at 10 33 23 PM" src="https://user-images.githubusercontent.com/48275526/193968932-532f892a-0eb3-42e7-b2d4-51d1ebf6d213.png">
+
 9.30.2022
 - This is becoming less of a dev journal and more of a dev job application tracker. Since my last entry, I've applied to 7 roles, and started networking with recruiters, hiring managers, and fellow job-seekers. In other news, I began coding in C++. I went through Mosh's C++ for Beginners video on YouTube and was glad I didn't skip over the basics. Now my more immediate objective is to build a vst plugin using the JUCE framework. The only problem for me is that I don't have a way of initializing a JUCE project in VSCode it seems so I may have to just download XCode just to follow the tutorial. 
 
