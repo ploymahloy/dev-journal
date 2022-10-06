@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+10.5.2022
+- Of course the day after I post about not making it a goal to code every day I make it so that I am, unintentionally. I guess the reverse psychology works! Anyway, I did a MAJOR overhaul of my personal site and am very proud of it. My next step is to work on my resume.
+
 10.4.2022
 - I'm definitely starting to take a step back to analyze where I'm falling short; not just in development skills. I'm also no longer concerned with coding every single day, but making meaningful progress every day that I can. Putting so much pressure on myself is why it's taking me so long to begin my career in the first place. Everyone is getting calls for interviews but me, it seems, so I went back to my portfolio site and started working on its appearance. Progress pic (ignore the Fill Murray):
 <img width="1277" alt="Screen Shot 2022-10-04 at 10 33 23 PM" src="https://user-images.githubusercontent.com/48275526/193968932-532f892a-0eb3-42e7-b2d4-51d1ebf6d213.png">
