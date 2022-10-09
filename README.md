@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+10.9.2022
+- Did some coding these past few days but just was not inspired to log my progress for whatever reason. Today, I address the button link color issue, and ended up fixing them and making some other improvements to the site along the way. Tomorrow I plan on converting the sidenav to a modal so I can add the detectOutsideClick hook and a backdrop. From there, I will more than likely implement a dark theme option switch (very excited to create the dark theme!!!).
+
 10.5.2022
 - Of course the day after I post about not making it a goal to code every day I make it so that I am, unintentionally. I guess the reverse psychology works! Anyway, I did a MAJOR overhaul of my personal site and am very proud of it. My next step is to work on my resume.
 
