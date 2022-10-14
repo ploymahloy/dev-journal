@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress.
 
+10.13.2022
+- Working on my portfolio as a whole, I'm trying to make some small tweaks. I have a note taker from a bootcamp lesson we did and it is TRULY amazing how bad it is. The worst part is that we were provided the front end! UI is horrible, but fixing it was easy. Glad I fixed it.
+
 10.9.2022
 - Did some coding these past few days but just was not inspired to log my progress for whatever reason. Today, I address the button link color issue, and ended up fixing them and making some other improvements to the site along the way. Tomorrow I plan on converting the sidenav to a modal so I can add the detectOutsideClick hook and a backdrop. From there, I will more than likely implement a dark theme option switch (very excited to create the dark theme!!!).
 
