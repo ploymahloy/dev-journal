@@ -1,5 +1,8 @@
 # dev-journal
-Journal for tracking web dev progress.
+Journal for tracking web dev progress.yse
+
+10.18.2022
+- I built my first app at work today! I was getting sick of combing through spreadsheets for unique numbers so I made a program that filters through repeating numbers. I saved myseylf an easy 3 hours by doing this. I'm very happy to have done this AT WORK!
 
 10.13.2022
 - Working on my portfolio as a whole, I'm trying to make some small tweaks. I have a note taker from a bootcamp lesson we did and it is TRULY amazing how bad it is. The worst part is that we were provided the front end! UI is horrible, but fixing it was easy. Glad I fixed it.
