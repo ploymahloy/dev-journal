@@ -1,5 +1,8 @@
 # dev-journal
-Journal for tracking web dev progress.yse
+Journal for tracking web dev progress
+
+10.19.2022
+- I began working on a new project. Persist: a Google Keep clone. I need more high quality, complex applications in my portfolio. Everyone has a todo app. Everyone has a weather app. I need to build that API, build that social media app, chat app, etc. if I want to stand out. Polishing my resume would help.
 
 10.18.2022
 - I built my first app at work today! I was getting sick of combing through spreadsheets for unique numbers so I made a program that filters through repeating numbers. I saved myseylf an easy 3 hours by doing this. I'm very happy to have done this AT WORK!
