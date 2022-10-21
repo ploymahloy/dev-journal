@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+10.20.2022
+- Someone that's super SUPER new to development (no React experience) just got their first job so I'm definitely motivated to start applying again. I did some serious work on this keep clone today. I did a bunch of small things like box-shadow on hover, icon button background color matching...bunch of UI stuff, but was also able to recreate the form functionality from the project organizer sigNIFicantly quicker than the first go-round. It's great to see my progress paying off.
+
 10.19.2022
 - I began working on a new project. Persist: a Google Keep clone. I need more high quality, complex applications in my portfolio. Everyone has a todo app. Everyone has a weather app. I need to build that API, build that social media app, chat app, etc. if I want to stand out. Polishing my resume would help.
 
