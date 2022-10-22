@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+10.22.2022
+- My dev journal came to the rescue! I couldn't get my modal close function to work in my Keep clone, but I remembered that I had the same issue in my Next Template project. All I had to do was pull up this journal, search 'modal', and I was able to find the solution! I'm so glad I started logging my progress.
+
 10.20.2022
 - Someone that's super SUPER new to development (no React experience) just got their first job so I'm definitely motivated to start applying again. I did some serious work on this keep clone today. I did a bunch of small things like box-shadow on hover, icon button background color matching...bunch of UI stuff, but was also able to recreate the form functionality from the project organizer sigNIFicantly quicker than the first go-round. It's great to see my progress paying off.
 
