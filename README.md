@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+10.26.2022
+- I've been forgetting to log my learnings. My keep clone is coming along, but I realized that I've never truly implemented an edit function so I need to figure that out. THEN, I can link the mongodb database and deploy (nervous that it will take forever to figure that out with mongodb).
+
 10.22.2022
 - My dev journal came to the rescue! I couldn't get my modal close function to work in my Keep clone, but I remembered that I had the same issue in my Next Template project. All I had to do was pull up this journal, search 'modal', and I was able to find the solution! I'm so glad I started logging my progress.
 
