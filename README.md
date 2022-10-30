@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+10.29.2022
+- I want to work with other developers ASAP so I forked 'first-contributors' and went through their tutorial. Fortunately, I'm comfortable with git and went through it without any trouble. 
+
 10.26.2022
 - I've been forgetting to log my learnings. My keep clone is coming along, but I realized that I've never truly implemented an edit function so I need to figure that out. THEN, I can link the mongodb database and deploy (nervous that it will take forever to figure that out with mongodb).
 
