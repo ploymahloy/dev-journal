@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress
 
+11.8.2022
+- I've been so busy focusing on building projects I forgot all about this journal. I took a step back from the Keep Clone as it was too difficult to implement an editable modal. I have a scratch project that contains code for an editable input field that I'll use to figure out how to implement into a modal. 
+- In other recent development, I have started building a modernized version of Game's Farmers Market site. Their current site makes me cry, so I took that as inspiration.
+
 10.29.2022
 - I want to work with other developers ASAP so I forked 'first-contributors' and went through their tutorial. Fortunately, I'm comfortable with git and went through it without any trouble. 
 
