@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+11.11.2022
+- I always have trouble getting TailwindCSS installed properly in Next projects. To prevent myself from wasting time with this ever again, I'm attaching an article that ultimately saved me from sure insanity: [Debugging Tailwind CSS](https://blog.logrocket.com/debugging-tailwind-css-next-js/#setting-up-next-js-project-tailwind-css). Also, I like this sense of only logging TRUE progress. I don't want this journal to have any fluff. I might even trim it down but who cares. Not my db, not my problem.
+
 11.8.2022
 - I've been so busy focusing on building projects I forgot all about this journal. I took a step back from the Keep Clone as it was too difficult to implement an editable modal. I have a scratch project that contains code for an editable input field that I'll use to figure out how to implement into a modal. 
 - In other recent development, I have started building a modernized version of Game's Farmers Market site. Their current site makes me cry, so I took that as inspiration.
