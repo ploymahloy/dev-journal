@@ -1,6 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress
 
+11.12.2022
+- Google Keep's card layout has always fascinated me as it was staggered and somewhat chaotic yet still very organized in its aesthetic. I couldn't figure out what it was called to even search for it, but I finally discovered that it's referred to as the masonry layout/masonry grid. Frameworks that help create this effect exist, but I like doing things myself and having total control so I found [this Codepen](https://codepen.io/kreigd/pen/KRYzdd?editors=1100); which is pure CSS.
+- In other news, I deployed the Game's Market site without a hitch, surprisingly. All I really need to do is get the mobile menu functioning, which won't be hard. That and maybe redesign the layout of the About/Contact pages as they're not in-brand with the home page...and kinda suck tbh.
+- Lastly, Rebecca from Robert Half reached out to me and we got on a call. I tweaked my resume to her suggestions (which were very welcome) and I'm hoping to get this Junior Dev role she has. It's a JSON developer role (LMAO) that pays $50k, which is somehow a staggering 20% increase from what I make currently. It's amazing how I can make more waiting tables part time than work full time at a damn Fortune 500 company with access to all their employee's data.
+
 11.11.2022
 - I always have trouble getting TailwindCSS installed properly in Next projects. To prevent myself from wasting time with this ever again, I'm attaching an article that ultimately saved me from sure insanity: [Debugging Tailwind CSS](https://blog.logrocket.com/debugging-tailwind-css-next-js/#setting-up-next-js-project-tailwind-css). Also, I like this sense of only logging TRUE progress. I don't want this journal to have any fluff. I might even trim it down but who cares. Not my db, not my problem.
 
