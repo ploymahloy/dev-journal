@@ -1,6 +1,17 @@
 # dev-journal
 Journal for tracking web dev progress
 
+1.15.2023
+- I've decided to become a Rustacean! This will allow me to build audio plugins and firmware for my super secret guitar product that needs to be patented before I share any more details.
+- I started my process here: [Getting started - Rust Programming Language](https://www.rust-lang.org/learn/get-started)
+  - I downloaded Rustup, which is the Rust installer and version mgmt tool
+  - Rustup comes with Cargo, a Rust build tool and package manager
+    - It took me a good 3 minutes to remember that "build" refers to building an app for deployment...not creating a new app. LOL we're off to a great start here, folks. At least I know what `cargo build` does now. To make a new project, you run `cargo new <project name>` in the command line. I so miss working in the command line. My current role does not necesitate command line work. Not a bad thing, really, but we're creatures of habit.
+- Got me a working command line app! Can't say I did much as the boilerplate code is "Hello World!"; which is the lamest barbed-wire tattoo shit ever. I changed it to "I'm Alive" because my apps will resemble Frankenstein's monster during my learning phase.
+<img width="685" alt="image" src="https://user-images.githubusercontent.com/48275526/212582945-ae8aabe1-5359-4df1-89ae-d3466cdd4896.png">
+
+===== Landed Dev Job 12/5 ======
+
 11.12.2022
 - Google Keep's card layout has always fascinated me as it was staggered and somewhat chaotic yet still very organized in its aesthetic. I couldn't figure out what it was called to even search for it, but I finally discovered that it's referred to as the masonry layout/masonry grid. Frameworks that help create this effect exist, but I like doing things myself and having total control so I found [this Codepen](https://codepen.io/kreigd/pen/KRYzdd?editors=1100); which is pure CSS.
 - In other news, I deployed the Game's Market site without a hitch, surprisingly. All I really need to do is get the mobile menu functioning, which won't be hard. That and maybe redesign the layout of the About/Contact pages as they're not in-brand with the home page...and kinda suck tbh.
