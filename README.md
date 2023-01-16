@@ -1,6 +1,17 @@
 # dev-journal
 Journal for tracking web dev progress
 
+1.16.2023
+- Continuing along with the [Getting started - Rust Programming Language](https://www.rust-lang.org/learn/get-started) guide, starting with the "Adding dependencies section," I've learned that `cargo build` can be used to install dependencies; `ferris-says`, in this case.
+- More dependencies can be found at [crate.io](crate.io)
+- Terminology: Packages are often referred to as "crates." Rustaceans....crates....it's like a sailor wrote this language.
+- After completing the "a small Rust application" section (copy/pasting the code), I ran the app and was provided with the output below. This concludes Rust's basic tutorial on the page (linked above) <br>
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/48275526/212725247-872c461b-02f4-4aba-a9ec-e27e121fc7bd.png">
+- The crab shown in the console above is actually the Rust mascot, Ferris. It is named so as rust forms on iron; which is a ferrous metal.
+<img width="458" alt="image" src="https://user-images.githubusercontent.com/48275526/212727204-efb58fdc-6ede-45f4-90ef-99540fc5dd20.png"><br>
+- Starting off with this language, I will be focusing on the syntax of the language by writing basic for loops, for example. [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/) <-- this page will be able to provide me with examples of how Rust code is written.
+
+
 1.15.2023
 - I've decided to become a Rustacean! This will allow me to build audio plugins and firmware for my super secret guitar product that needs to be patented before I share any more details.
 - I started my process here: [Getting started - Rust Programming Language](https://www.rust-lang.org/learn/get-started)
