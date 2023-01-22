@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress
 
+1.22.2023
+- Did some work in [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html). I really like that there's a built in IDE and compiler so all the examples and exercises can be performed on the page. I highly recommend this for anyone learning Rust.
+- It appears that in my efforts to help pre-career Junior Developers, I have acquired a mentee. He's in Bengladesh, and knows JavaScript and Python. He likes doing Leetcode, which is great, but he expressed his lack of understanding in where "the bar" was, as he stated, in terms of portfolio projects. I showed him my portfolio site, and told him that he should build a [landing page](https://games-market.vercel.app/) and deploy it (he doesn't have any deployed projects). He seems driven so I'm excited to see what he comes up with.
+
 1.21.2023
 - I downloaded [rustlings](https://github.com/rust-lang/rustlings/) and was reading through code, and realized the great possibility that I was wasting my time in learning the wrong technology for my product, despite ChatGPT and other sources stating that Rust is perfect for writing memory-safe firmware. 
 - This led me to research [Firmware vs Embedded Software](https://www.andplus.com/blog/firmware-vs-embedded-software-what-s-the-difference-). After reading this, it affirmed my initial thought that what I need to write is, in fact, firmware. Ergo, all I need to do is learn Rust. 
