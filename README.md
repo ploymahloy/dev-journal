@@ -1,6 +1,13 @@
 # dev-journal
 Journal for tracking web dev progress
 
+1.21.2023
+- I downloaded [rustlings](https://github.com/rust-lang/rustlings/) and was reading through code, and realized the great possibility that I was wasting my time in learning the wrong technology for my product, despite ChatGPT and other sources stating that Rust is perfect for writing memory-safe firmware. 
+- This led me to research [Firmware vs Embedded Software](https://www.andplus.com/blog/firmware-vs-embedded-software-what-s-the-difference-). After reading this, it affirmed my initial thought that what I need to write is, in fact, firmware. Ergo, all I need to do is learn Rust. 
+ - After more research, I found out that Rust not only can create a GUI, but Rust allows for signal conversion, and a certain output connectivity (that I was worried about and will share once I have a patent). As of today, I am 100% on board with Rust and can focus on learning the language without any uncertainty in whether it's the right tool for the job. This is probably why it's a good idea to read about a language in context of its primary uses, community, ecosystem (frameworks and libraries) etc. before diving into learning a language. Unless you want to learn a language with no other motivation than "because you want to," it may not be the right tool for the job if you don't do your research. I got lucky from half-assed research.
+ - On that note, I popped open the [Rust Playground](https://play.rust-lang.org/?version=stable&mode=debug&edition=2021) and started my evening's coding journey by writing a for loop. Nothing too crazy, but studying the syntax of this will help me in the long run. Strong foundations support great structures. Also, I can't eat a cow in one sitting, but give me a year and I'll make easy work of that cow; one steak at a time.
+<img width="736" alt="Screen Shot 2023-01-21 at 9 33 54 PM" src="https://user-images.githubusercontent.com/48275526/213897964-6c2a955f-d743-4cb2-93c3-eaa02834e0bb.png">
+
 1.16.2023
 - Continuing along with the [Getting started - Rust Programming Language](https://www.rust-lang.org/learn/get-started) guide, starting with the "Adding dependencies section," I've learned that `cargo build` can be used to install dependencies; `ferris-says`, in this case.
 - More dependencies can be found at [crate.io](crate.io)
