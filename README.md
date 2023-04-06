@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.5.2023
+- Back on the job hunt. Fucking CRC, man. The Glassdoor reviews were awful and I can see why. So much micromanaging! A meeting dedicated to making sure we track our activities down to the 1/4 hour? Really? How about we get the devs to reports what they did the next day in stand-up like a normal dev team. Yeesh. Anyway, I'm relieved that I no longer have to pretend to appreciate C# even though TypeScript takes the good aspects of a type-system to make JavaScript code safer, among other things.
+
 1.22.2023
 - Did some work in [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html). I really like that there's a built in IDE and compiler so all the examples and exercises can be performed on the page. I highly recommend this for anyone learning Rust.
 - It appears that in my efforts to help pre-career Junior Developers, I have acquired a mentee. He's in Bengladesh, and knows JavaScript and Python. He likes doing Leetcode, which is great, but he expressed his lack of understanding in where "the bar" was, as he stated, in terms of portfolio projects. I showed him my portfolio site, and told him that he should build a [landing page](https://games-market.vercel.app/) and deploy it (he doesn't have any deployed projects). He seems driven so I'm excited to see what he comes up with.
