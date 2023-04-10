@@ -1,6 +1,11 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.9.2023
+- I discovered that, in Bash scripts, the `!` character needs to be escaped as shown below (otherwise `dquote>` will rear its ugly head): <br>
+![image](https://user-images.githubusercontent.com/48275526/230819787-069f9419-c236-4b6e-9329-fed37b271b65.png)
+
+
 4.5.2023
 - Back on the job hunt. Fucking CRC, man. The Glassdoor reviews were awful and I can see why. So much micromanaging! A meeting dedicated to making sure we track our activities down to the 1/4 hour? Really? How about we get the devs to reports what they did the next day in stand-up like a normal dev team. Yeesh. Anyway, I'm relieved that I no longer have to pretend to appreciate C# even though TypeScript takes the good aspects of a type-system to make JavaScript code safer, among other things.
 
