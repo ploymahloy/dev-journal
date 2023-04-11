@@ -1,10 +1,16 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.11.2023
+- I completed my new resume! I was really dragging my feet for some reason, but I'm really proud of my resume skills now. For future reference, I used [this](https://arc.dev/resume) site as a guide. I find that there aren't enough good definitive resources and every other recruiter/hiring manager looks for different things in their applicants' resumes. The aforementioned guide seems to boil it down to the basics; which I very much appreciate. I need to add it to LinkedIn, and replace the Resume link button on my site to a download.
+- I finally did it. I took the plunge. I have begun learning three.js! After years of wanting to, but "not having the time," or whatever other excuse I've had, I'm finally investing time into a technology I really enjoy seeing. I need three.js for a business idea of mine that will be best served with a three.js-infused site. More details to come!
+
+4.10.2023
+- I was introduced to spleeter (eventually used mySpleeter) today and had some fun using it. I've always wanted to isolate the drums from certain songs as I have future plans to do a cover song YouTube channel, and I could never find free software to make it happen. As it turns out, this AI project does a fanTASTIC job and I highly recommend it. Not so much coding, but more of what portion of my day was influenced by code.
+
 4.9.2023
 - I discovered that, in Bash scripts, the `!` character needs to be escaped as shown below (otherwise `dquote>` will rear its ugly head): <br>
 ![image](https://user-images.githubusercontent.com/48275526/230819787-069f9419-c236-4b6e-9329-fed37b271b65.png)
-
 
 4.5.2023
 - Back on the job hunt. Fucking CRC, man. The Glassdoor reviews were awful and I can see why. So much micromanaging! A meeting dedicated to making sure we track our activities down to the 1/4 hour? Really? How about we get the devs to reports what they did the next day in stand-up like a normal dev team. Yeesh. Anyway, I'm relieved that I no longer have to pretend to appreciate C# even though TypeScript takes the good aspects of a type-system to make JavaScript code safer, among other things.
