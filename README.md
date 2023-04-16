@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.14.2023
+- I had an impromptu interview with a founder of a startup in New Zealand. Looks like a challenging contract that could lead to a hire, but we'll see. Homie didn't seem to like the idea of using a contract? Again, we'll see.
+
 4.11.2023
 - I completed my new resume! I was really dragging my feet for some reason, but I'm really proud of my resume skills now. For future reference, I used [this](https://arc.dev/resume) site as a guide. I find that there aren't enough good definitive resources and every other recruiter/hiring manager looks for different things in their applicants' resumes. The aforementioned guide seems to boil it down to the basics; which I very much appreciate. I need to add it to LinkedIn, and replace the Resume link button on my site to a download.
 - I finally did it. I took the plunge. I have begun learning three.js! After years of wanting to, but "not having the time," or whatever other excuse I've had, I'm finally investing time into a technology I really enjoy seeing. I need three.js for a business idea of mine that will be best served with a three.js-infused site. More details to come!
