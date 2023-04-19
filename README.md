@@ -1,6 +1,12 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.17.2023
+- I had a second round interview with New Zealand dude. They seem to be in need of someone technically more advanced, but I told him that I was more than capable of doing 90% of the work in the first few days of the 1-month timeframe. With that being said, whether he is sold on me or not, I am also in the running for a role at Timmons with Jesse Warden! I really hope I get that as I think it would be lifechanging for my career.
+- I started workinging in Three.JS! I got a wireframe sphere to render on screen. My next step (working on it tonight) is to add a countries layer over it to make progress on my timezone widget. <br>
+![Image 4-19-23 at 7 34 PM](https://user-images.githubusercontent.com/48275526/233222256-85d2fdde-559c-4f64-87e0-59aa268c5888.jpg)
+
+
 4.14.2023
 - I had an impromptu interview with a founder of a startup in New Zealand. Looks like a challenging contract that could lead to a hire, but we'll see. Homie didn't seem to like the idea of using a contract? Again, we'll see.
 
