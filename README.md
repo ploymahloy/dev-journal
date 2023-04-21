@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.20.2023
+- I spent another day (yesterday) looking at three.js before moving everything to React. 
+- Today I started the dashboard project. This will include a React Three Fiber globe where the user can select their timezone based on major cities representing timezones on the globe. There will also be a prompt to add team members to make global teamwork easier. I plan to include a view with the user and their team's timezones. Something like a card with each user showing h1: name, h3: location, h3: current time (except for semantic tags only!). Other features I'd like to implement are a messaging app, a project management tool, and a cloud storage system.
+
 4.17.2023
 - I had a second round interview with New Zealand dude. They seem to be in need of someone technically more advanced, but I told him that I was more than capable of doing 90% of the work in the first few days of the 1-month timeframe. With that being said, whether he is sold on me or not, I am also in the running for a role at Timmons with Jesse Warden! I really hope I get that as I think it would be lifechanging for my career.
 - I started workinging in Three.JS! I got a wireframe sphere to render on screen. My next step (working on it tonight) is to add a countries layer over it to make progress on my timezone widget. <br>
