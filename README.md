@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.25.2023
+- I discovered [react.dev](react.dev/); which is much better than React Legacy docs that I have been looking at prior to this day... I am beyond perplexed that I managed to go this long without referring to the right documentation >.< Either way, I'm reading the docs and scanning for best practices related to props and state as I believe the issue with my Keep clone is that the state is not changing because the state is initialized with props.
+
 4.20.2023
 - I spent another day (yesterday) looking at three.js before moving everything to React. 
 - Today I started the dashboard project. This will include a React Three Fiber globe where the user can select their timezone based on major cities representing timezones on the globe. There will also be a prompt to add team members to make global teamwork easier. I plan to include a view with the user and their team's timezones. Something like a card with each user showing h1: name, h3: location, h3: current time (except for semantic tags only!). Other features I'd like to implement are a messaging app, a project management tool, and a cloud storage system.
