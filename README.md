@@ -1,6 +1,12 @@
 # dev-journal
 Journal for tracking web dev progress
 
+4.27.2023
+- To get myself excited about coding for the day (or first this part of the day) I ran with an idea that I had. I thought, "I wonder how I can code a knob like you would see on a guitar amp or in a DAW?" I think I'll eventually try to use Tuna.js and Tone.js to build a simple audio effects processor, and maybe a full-blown web-based DAW at some point with cloud storage and stuff of that nature.
+
+4.26.2023
+- I've been really dragging my feet on fixing the state-update bug in my Keep clone, but I at least know that, for my other project, I will be using react-globe.gl instead of three.js or D3.js as react-globe.gl provides me with many options that are easy to use. I guess it's more specific to the task I need it for. I still want to become competent in three.js as I find it to be incredibly interesting; regardless of the job market for 3D web devs.
+
 4.25.2023
 - I discovered [react.dev](react.dev/); which is much better than React Legacy docs that I have been looking at prior to this day... I am beyond perplexed that I managed to go this long without referring to the right documentation >.< Either way, I'm reading the docs and scanning for best practices related to props and state as I believe the issue with my Keep clone is that the state is not changing because the state is initialized with props.
 
