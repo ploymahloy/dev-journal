@@ -3,6 +3,7 @@ Journal for tracking web dev progress
 
 4.27.2023
 - To get myself excited about coding for the day (or first this part of the day) I ran with an idea that I had. I thought, "I wonder how I can code a knob like you would see on a guitar amp or in a DAW?" I think I'll eventually try to use Tuna.js and Tone.js to build a simple audio effects processor, and maybe a full-blown web-based DAW at some point with cloud storage and stuff of that nature.
+- After going back and forth for about 30 minutes I was able to get the types right for all my event types in the Keep clone. onChange gets a ChangeEvent type, the form submit handler, onBlur, is type FormEvent, and the keypress handler is type Keyboard Event. Now that ChatGPT and Bard are at my disposal, I think I'll be able to learn types faster. Otherwise, I'll be drowning in docs and StackOverflow posts. Next step is to fix the id update failure.
 
 4.26.2023
 - I've been really dragging my feet on fixing the state-update bug in my Keep clone, but I at least know that, for my other project, I will be using react-globe.gl instead of three.js or D3.js as react-globe.gl provides me with many options that are easy to use. I guess it's more specific to the task I need it for. I still want to become competent in three.js as I find it to be incredibly interesting; regardless of the job market for 3D web devs.
