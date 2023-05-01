@@ -4,6 +4,7 @@ Journal for tracking web dev progress
 4.30.2023
 - I found a really good post on how to dynamically generate the document title in Vue via [this post](https://stackoverflow.com/questions/62023604/where-to-find-or-how-to-set-htmlwebpackplugin-options-title-in-project-created-w). It goes into 6 different ways to do so! Saving this for future reference, and to my future self...you're welcome!
 - I'm about to make a video on this and post it on LinkedIn. The Split HTML Attribute extension is great! Highlight, then use `Ctrl + Alt + Shift + A` to separate the element's attributes. Order of attributes can be customized, as can placement of the closing tag. Nice!
+- I was also looking at iPad development in case I ever actually travel. It looks like GitHub's [Codespaces](https://code.visualstudio.com/docs/remote/codespaces#:~:text=For%20several%20issues%20(especially%20keybindings,progressive%20web%20application%20(PWA).) can be installed as PWA. I'm going to try using it with a simulated network connection interruption and screen record the results. More video ideas! Yay!
 
 4.27.2023
 - To get myself excited about coding for the day (or first this part of the day) I ran with an idea that I had. I thought, "I wonder how I can code a knob like you would see on a guitar amp or in a DAW?" I think I'll eventually try to use Tuna.js and Tone.js to build a simple audio effects processor, and maybe a full-blown web-based DAW at some point with cloud storage and stuff of that nature.
