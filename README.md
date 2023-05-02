@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.2.2023
+- I'm going to my first conference! I'll be wearing my networking hat for sure. I'm glad that I was able to get all my fixes completed before going so I can confidently share my site with people.
+- For some reason, the mobile resume link on my site was still linked to a relative path so I set the link for both the desktop and mobile menu to a constant with the value of the link<string>. I noticed a bunch of repeated code so I'll be working on that at some point, but the more pressing matter is adding an overlay for the mobile menu, and adding framed app demos (just found some templates!). Very exciting. 
+
 5.1.2023
 - Got to make some much needed changes today. I changed my profile pic on my website, fixed the Keep clone link, made my resume open in a new tab instead of hijacking the current page, and homogenized tooltips as there was a mixture of these three: `*JS, *.js *.JS`.
 
