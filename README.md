@@ -1,6 +1,16 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.9.2023
+- Managed to get some more time with Mr. Warden. He helped me figure out why my app wasn't working.
+  - Problem: Delete button deletes last note in array; not the selected note
+  - Cause: Data was fine, but rendering was not. I was setting state in the Note component instead of passing the changed state up to the App component. This was causing the UI to bug out as the old note was still showing in the list.
+  - Solution: Pass state up to App component via functions. Not sure why I found this part difficult, but I know that I wanted to shape the updated note as an object; which was not doing me any good. One task at a time, no need to overcomplicate it.
+- Tomorrow, I plan on adding a Node/Express backend to communicate with a MongoDB or SQL database. I haven't really decided, but as I write this I am leaning towards a document-oriented database as Google Keep is essentially a collection of documents. I'll review [this list](https://www.g2.com/categories/document-databases) tomorrow after my screening with Pocket Properties.
+
+5.6.2023
+- Had a 3 3/4 hour call with Jesse learning serverless with AWS. I have my notes on my local machine so I won't go into too much detail here, but I know that AWS Amplify takes a lot of ops work out of the equation. Once I finish the Keep clone (add a SQL backend), I think I'll give serverless a try when I create the filesharing app.
+
 5.5.2023
 - Just learned the basics of Redux via [this article](https://www.freecodecamp.org/news/redux-for-beginners/). I think the most surprising thing that I learned was that Redux is not specific to React, but JavaScript. In other words, I can use Redux in Vue! A challenge for my Vue music app perhaps? I meet with Jesse via Zoom in ~11 hours so I'll ask him what he thinks. I vote yes: good opportunity to practice Redux.
 
