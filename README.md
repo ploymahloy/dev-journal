@@ -2,6 +2,12 @@
 Journal for tracking my dev progress
 
 5.9.2023
+- I discovered that I can use `var isMobile = navigator.userAgent.match(/(iPhone|Android|BlackBerry|Windows Phone)/i);` to determine whether the device accessing the site/app is mobile. I saw that there was a property `navigator.userAgentData.mobile: Boolean`, but it lacks the proper support to be fruitful; despite the fact that it is significantly more specific than `userAgent`. Nonetheless, [it works](https://codepen.io/ploymahloy/details/yLRKQqo).
+- In the process of making the above discovery, I stumbled upon [this PDF](https://www.cs.virginia.edu/~up3f/cs4640/slides/4640meet09A-JS-object-DOM.pdf) diagramming the details of the Browser Object Model.
+- Ran into a weird issue last night with the Keep clone. Everything is straight with it except the Modal keeps telling me `open` is declared, but I changed it because `open` is a reserved word. Now, I get an error when the value is named `open`, and I get a different error when the value is named something else; like `isOpen` or `modalIsVisible`. I'm going to consult the Oracles tomorrow and see what they think. Might as well post it on Stack Overflow tbh.
+- I'm starting on the Global Team Manager. I've been hesitant since I don't know how Three.js shaders work, but I can start with a carousel showing each time zone as a png to start; THEN add the 3D globe with highlighted timezones. I'm really looking forward to this one as I already have an interested client!
+
+5.8.2023
 - Managed to get some more time with Mr. Warden. He helped me figure out why my app wasn't working.
   - Problem: Delete button deletes last note in array; not the selected note
   - Cause: Data was fine, but rendering was not. I was setting state in the Note component instead of passing the changed state up to the App component. This was causing the UI to bug out as the old note was still showing in the list.
