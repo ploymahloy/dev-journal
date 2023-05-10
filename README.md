@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.10.2023
+- I declared that I would be creating the Global Team Manager as my first product on LinkedIn last night. I'm excited to see where this takes me. I will have a great many challenges, and am excited for the journey ahead.
+- The more I think about it, the more I want the `navigator.userAgentData.mobile` property to be supported better since it's such a powerful solution to a common problem. Apparently, I can contact the browser vendors directly or contribute to the code if allowed. I'll ask Jesse.
+
 5.9.2023
 - I discovered that I can use `var isMobile = navigator.userAgent.match(/(iPhone|Android|BlackBerry|Windows Phone)/i);` to determine whether the device accessing the site/app is mobile. I saw that there was a property `navigator.userAgentData.mobile: Boolean`, but it lacks the proper support to be fruitful; despite the fact that it is significantly more specific than `userAgent`. Nonetheless, [it works](https://codepen.io/ploymahloy/details/yLRKQqo).
 - In the process of making the above discovery, I stumbled upon [this PDF](https://www.cs.virginia.edu/~up3f/cs4640/slides/4640meet09A-JS-object-DOM.pdf) diagramming the details of the Browser Object Model.
@@ -11,6 +15,7 @@ Journal for tracking my dev progress
 - Managed to get some more time with Mr. Warden. He helped me figure out why my app wasn't working.
   - Problem: Delete button deletes last note in array; not the selected note
   - Cause: Data was fine, but rendering was not. I was setting state in the Note component instead of passing the changed state up to the App component. This was causing the UI to bug out as the old note was still showing in the list.
+  <img width="533" alt="Screen Shot 2023-05-08 at 9 30 19 PM" src="https://github.com/ploymahloy/dev-journal/assets/48275526/bd6a13b7-2454-4d71-a154-2ef06e6771a9"><br>
   - Solution: Pass state up to App component via functions. Not sure why I found this part difficult, but I know that I wanted to shape the updated note as an object; which was not doing me any good. One task at a time, no need to overcomplicate it.
 - Tomorrow, I plan on adding a Node/Express backend to communicate with a MongoDB or SQL database. I haven't really decided, but as I write this I am leaning towards a document-oriented database as Google Keep is essentially a collection of documents. I'll review [this list](https://www.g2.com/categories/document-databases) tomorrow after my screening with Pocket Properties.
 
