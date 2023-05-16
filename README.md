@@ -1,6 +1,13 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.15.2023
+- My cat, Charlie, died on Friday night. It really messed me up, but I've made my peace. 
+- I spent quite a few hours researching how to make various charts. I think I'm going to use D3.js for the world map, but will start with the easier aspects of the app.
+
+5.11.2023
+- I got started on the Global Team Manager. I used a navy blue/seafoam green color scheme, and will use React Router to render components as "pages" while maintaining a navbar. 
+
 5.10.2023
 - I declared that I would be creating the Global Team Manager as my first product on LinkedIn last night. I'm excited to see where this takes me. I will have a great many challenges, and am excited for the journey ahead.
 - The more I think about it, the more I want the `navigator.userAgentData.mobile` property to be supported better since it's such a powerful solution to a common problem. Apparently, I can contact the browser vendors directly or contribute to the code if allowed. I'll ask Jesse.
