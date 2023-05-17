@@ -3,6 +3,8 @@ Journal for tracking my dev progress
 
 5.16.2023
 - Just redid my resume. Paul at Microsoft is giving it a second look. What a guy!
+- Every day I've worked on this app I find that I need to learn yet another new way to visually represent data. I'm going to use D3.js to make this happen. Hopefully, I'll be able to use it for all charting; including the world map.
+- I found code for native dual input sliders. I'm thinking a `readonly` version of this could work to represent availability on the ScheduleSync, but it's probably not going to be ideal. [CodePen](https://codepen.io/predragdavidovic/pen/mdpMoWo)
 
 5.15.2023
 - My cat, Charlie, died on Friday night. It really messed me up, but I've made my peace. 
