@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.16.2023
+- Just redid my resume. Paul at Microsoft is giving it a second look. What a guy!
+
 5.15.2023
 - My cat, Charlie, died on Friday night. It really messed me up, but I've made my peace. 
 - I spent quite a few hours researching how to make various charts. I think I'm going to use D3.js for the world map, but will start with the easier aspects of the app.
