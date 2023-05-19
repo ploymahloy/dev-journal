@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.19.2023
+- I'm realizing that this management app has so many potential starting points, and I am over-analyzing what I _should_ start building. Unironically, I chose to start building out the kanban board as the only thing I need to learn there is drag-and-drop. From there, I can easily track the progress of my own management app using the kanban board. I'll probably do some user authentication afterwards just because it's been on my list for some time now, and the product WILL require authentication.
+
 5.16.2023
 - Just redid my resume. Paul at Microsoft is giving it a second look. What a guy!
 - Every day I've worked on this app I find that I need to learn yet another new way to visually represent data. I'm going to use D3.js to make this happen. Hopefully, I'll be able to use it for all charting; including the world map.
