@@ -4,6 +4,7 @@ Journal for tracking my dev progress
 5.20.2023
 - I've started using Vite to initialize and compile my React Typescript projects. I discovered the hot reloading colloquial for Hot Module Replacement (HMR). I like the idea that I can use the same tool to initialize a Vanilla, Vue, React, or Svelete project, AND have the option of using the Rust-built SWC. I'll explore that another day. I want to get this drag and drop functional. Once I do that, I'll have the hardest part (newest technique to me) in motion.
 - Dear Lord, I just wasted over an hour trying to get 2 deprecated libraries to work in my app. The worst part is that the second library is the "updated" version of the deprecated one...but they're BOTH deprecated! So annoying. I took a break, and am going to take a stab at `react-movable`.
+- `React-DnD`; final answer.
 
 5.19.2023
 - I'm realizing that this management app has so many potential starting points, and I am over-analyzing what I _should_ start building. Unironically, I chose to start building out the kanban board as the only thing I need to learn there is drag-and-drop. From there, I can easily track the progress of my own management app using the kanban board. I'll probably do some user authentication afterwards just because it's been on my list for some time now, and the product WILL require authentication.
