@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.22.2023
+- Had a call with my mentor. He could use someone to do some front end work so he's trying to get me in. Something is going to happen soon!
+
 5.21.2023
 - I was able to confirm that `react-dnd` is the best option for making a Trello-style kanban board. I'm excited to get one of these components completed!
 
