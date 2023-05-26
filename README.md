@@ -3,6 +3,7 @@ Journal for tracking my dev progress
 
 5.25.2023
 - Just spent 40 minutes developing issues for Ethereal TV's streaming app. I'm going to try to keep a record of how much time I spend on what so I can determine where I need to improve. (Development) time is money.
+- Finished building the sidebar component. I'm going to plow through these easier parts since I know there will be fewer, if any, obstacles along the way. Next up: footer.
 
 5.22.2023
 - Had a call with my mentor. He could use someone to do some front end work so he's trying to get me in. Something is going to happen soon!
