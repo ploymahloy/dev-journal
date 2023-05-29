@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.28.2023 
+- I built my first carousel component! This project is teaching me a lot. The one thing I can't seem to figure out, so far, is how to add transition animations. I know that in CSS you can add `transition: property time(s) transition-timing-function` to create a smooth effect. I've used this technique to add transitions to my hover effects. What I need to figure out is how to make my sidebar slide open (as opposed to jutting open), and fading my carousel controls in and out.
+
 5.25.2023
 - Just spent 40 minutes developing issues for Ethereal TV's streaming app. I'm going to try to keep a record of how much time I spend on what so I can determine where I need to improve. (Development) time is money.
 - Finished building the sidebar component. I'm going to plow through these easier parts since I know there will be fewer, if any, obstacles along the way. Next up: footer.
