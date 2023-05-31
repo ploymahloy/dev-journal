@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+5.31.2023
+- As of yesterday afternoon, I got a job working with my mentor! I'm very excited to be working again starting next week. Time to have my celebratory cigar!
+
 5.28.2023 
 - I built my first carousel component! This project is teaching me a lot. The one thing I can't seem to figure out, so far, is how to add transition animations. I know that in CSS you can add `transition: property time(s) transition-timing-function` to create a smooth effect. I've used this technique to add transitions to my hover effects. What I need to figure out is how to make my sidebar slide open (as opposed to jutting open), and fading my carousel controls in and out.
 
