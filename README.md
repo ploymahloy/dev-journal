@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+6.5.2023
+- I'm creating a drag and drop app for future reference based on a tutorial using tailwind, and I learned that Vite has a different set of installation instructions. I'm glad I finally figured that out. I was really about to lose it.
+
 5.31.2023
 - As of yesterday afternoon, I got a job working with my mentor! I'm very excited to be working again starting next week. Time to have my celebratory cigar!
 
