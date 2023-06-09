@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+6.8.2023
+- TIL about the [nonce](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/nonce) attribute. "Number Used Once."
+
 6.6.2023
 - [useReducer](https://react.dev/learn/scaling-up-with-reducer-and-context) quick TL;DR
 <img width="886" alt="Screen Shot 2023-06-07 at 2 25 56 PM" src="https://github.com/ploymahloy/dev-journal/assets/48275526/4168927a-199f-402c-bbc2-26b58fca81de"><br>
