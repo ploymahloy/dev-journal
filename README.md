@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+6.12.2023
+- I need to stop avoiding hooks. React-DnD + useReducer + useContext > dnd-kit
+
 6.8.2023
 - TIL about the [nonce](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/nonce) attribute. "Number Used Once."
 
