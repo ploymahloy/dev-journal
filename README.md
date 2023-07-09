@@ -2,7 +2,7 @@
 Journal for tracking my dev progress
 
 7.9.2023
-- MF Justin Jones at Naborforce completely wasted 8 months of my life by leading me on just to tell me he couldn't hire me for not having my degree in CS. What a fucking dickhead.
+- MF Justin Jones at Naborforce completely wasted 8 months of my life by leading me on just to tell me he couldn't hire me for not having my degree in CS. What a @%#$!
 - In preparation for configuring React Dnd, I've been getting more comfortable with useReducer and useContext.
 - I was reading [this article](https://profy.dev/article/react-folder-structure#best-practices) on application architecture in the vein of React folder structure, and came across a new concept: absolute imports. Instead of importing from `'../../folder/file'`, absolute imports allow for more explicit imports, such as `'@parent-folder/folder/file'` to allow for better readability. These can be set up in the project's `jsconfig.json` or `tsconfig.json` file.
 
