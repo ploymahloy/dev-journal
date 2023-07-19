@@ -1,6 +1,14 @@
 # dev-journal
 Journal for tracking my dev progress
 
+7.19.2023
+- I could not, for the life of me, understand why my TypeScript code was not working. It turns out that I was using commas to separate values within the type declaration... Correct syntax below:
+```
+type Programmer = {
+  name: string;
+  knownFor: string[];
+};
+```
 7.9.2023
 - MF Justin Jones at Naborforce completely wasted 8 months of my life by leading me on just to tell me he couldn't hire me for not having my degree in CS. What a @%#$!
 - In preparation for configuring React Dnd, I've been getting more comfortable with useReducer and useContext.
