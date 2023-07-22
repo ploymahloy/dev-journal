@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+7.22.2023
+- I made a massive breakthrough today. I was working on creating a reference for `react-beautiful-dnd` for when I finally get the functionality down (fml why can I not get this to work). I decided to build in JavaScript instead of TypeScript as the typing kept getting in the way and throwing errors as I was trying to learn how to implement the library. Boy was I wrong! I was so lost and felt like I was blind, in a sense. No more JavaScript without types. Icky.
+
 7.19.2023
 - I could not, for the life of me, understand why my TypeScript code was not working. It turns out that I was using commas to separate values within the type declaration... Correct syntax below:
 ```
