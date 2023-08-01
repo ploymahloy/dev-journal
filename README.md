@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+7.31.2023
+- TIL: The shortcut for toggling VSCode's terminal is <strong>Ctrl + `</strong>.
+
 7.22.2023
 - I made a massive breakthrough today. I was working on creating a reference for `react-beautiful-dnd` for when I finally get the functionality down (fml why can I not get this to work). I decided to build in JavaScript instead of TypeScript as the typing kept getting in the way and throwing errors as I was trying to learn how to implement the library. Boy was I wrong! I was so lost and felt like I was blind, in a sense. No more JavaScript without types. Icky.
 
