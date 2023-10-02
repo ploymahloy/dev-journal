@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.2.2023
+- Since my last post, I have kept track of my skill development and progress in my async collaboration app on LinkedIn. For the sake of keeping this log current, I will also mention that September 25th, 2023 was day 1 at Graphium Health as Software Engineer I - Full Stack. My manager and I had our first 1-on-1 and I was informed that I crushed week 1. Moving forward I'll keep notes here for future reference.
+
 7.31.2023
 - TIL: The shortcut for toggling VSCode's terminal is <strong>Ctrl + `</strong>.
 
