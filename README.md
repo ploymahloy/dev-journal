@@ -3,6 +3,7 @@ Journal for tracking my dev progress
 
 10.2.2023
 - Since my last post, I have kept track of my skill development and progress in my async collaboration app on LinkedIn. For the sake of keeping this log current, I will also mention that September 25th, 2023 was day 1 at Graphium Health as Software Engineer I - Full Stack. My manager and I had our first 1-on-1 and I was informed that I crushed week 1. Moving forward I'll keep notes here for future reference.
+- I'm becoming more comfortable with the Sundance codebase. I really just needed to see how everything was connected, and do a bunch of `Command + Click`-ing. Creating a new set of connections that already exist elsewhere in the app is extremely helpful as I can mirror what's there and better understand how data passes through the application.
 
 7.31.2023
 - TIL: The shortcut for toggling VSCode's terminal is <strong>Ctrl + `</strong>.
