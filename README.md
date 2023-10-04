@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.4.2023
+- I'm becoming increasingly more confident with my work project's codebase. All hard-coded text is stored in a JSON file that is fed through the `react-i18next` library for future translation. All I do is invoke a translation function and use object notation from there. Super simple. Love it.
+
 10.3.2023
 - Found a gret [article](https://opensource.com/article/21/4/git-stash) for using `git stash`
 
