@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.5.2023
+- Getting into the nitty-gritty with PRs, I spent a fair amount of time making adjustments to pass the linter and existing tests. Tomorrow, my job will be to finish making changes requested by Josh and to write some unit tests. To see test coverage in the terminal, I can run either `yarn test --coverage` or `npm test --coverage` locally.
+
 10.4.2023
 - I'm becoming increasingly more confident with my work project's codebase. All hard-coded text is stored in a JSON file that is fed through the `react-i18next` library for future translation. All I do is invoke a translation function and use object notation from there. Super simple. Love it.
 
