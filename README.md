@@ -1,6 +1,10 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.16.2023
+- Last week I spent most of Thursday and Friday trying to figure out what was going on with a component a coworker refactored. I mistakenly assumed that it was in working order and that one of my previous commits had caused it to fail in my local feature branch. Turns out that it was completely built out and non-functional.
+- I spent most of the day working in Bash. I've never used it, but I plan on making a `startup.sh` script for future noobs at work. I'm stuck with the inability to open new terminal tabs programatically, but I think that I can bypass this by running `wait` .... idk maybe. The issue that is making this task complex is the fact that there are two processes that need to remain open in order for the dev environment to work and I can't seem to figure this out without the use of a library. If I can't do it without, I think I'll just download some library to make it work. The only hesitation I have is that I don't want to have to deal with dependencies to maintain and for new hires to have to worry about. Tbd.
+
 10.5.2023
 - Getting into the nitty-gritty with PRs, I spent a fair amount of time making adjustments to pass the linter and existing tests. Tomorrow, my job will be to finish making changes requested by Josh and to write some unit tests. To see test coverage in the terminal, I can run either `yarn test --coverage` or `npm test --coverage` locally.
 
