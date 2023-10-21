@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.20.2023
+- A new trick that I stumbled upon was to search previous commits that involved a similar process to what I'm currently working on. I couldn't figure out why my new modal wasn't showing so I looked at my commit for the last one I made and sure enough...I forgot to add the new modal content to the modal content map in the base modal file. I have a better understanding of how this component works now AND I have the added benefit of discovering a new trick for when stuck.
+
 10.16.2023
 - Last week I spent most of Thursday and Friday trying to figure out what was going on with a component a coworker refactored. I mistakenly assumed that it was in working order and that one of my previous commits had caused it to fail in my local feature branch. Turns out that it was completely built out and non-functional.
 - I spent most of the day working in Bash. I've never used it, but I plan on making a `startup.sh` script for future noobs at work. I'm stuck with the inability to open new terminal tabs programatically, but I think that I can bypass this by running `wait` .... idk maybe. The issue that is making this task complex is the fact that there are two processes that need to remain open in order for the dev environment to work and I can't seem to figure this out without the use of a library. If I can't do it without, I think I'll just download some library to make it work. The only hesitation I have is that I don't want to have to deal with dependencies to maintain and for new hires to have to worry about. Tbd.
