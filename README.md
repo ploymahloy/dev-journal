@@ -1,6 +1,9 @@
 # dev-journal
 Journal for tracking my dev progress
 
+10.22.2023
+- JavaScript [dates](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) are ultimately specified as a the time in milliseconds relative to epoch (1/1/70) 
+
 10.20.2023
 - A new trick that I stumbled upon was to search previous commits that involved a similar process to what I'm currently working on. I couldn't figure out why my new modal wasn't showing so I looked at my commit for the last one I made and sure enough...I forgot to add the new modal content to the modal content map in the base modal file. I have a better understanding of how this component works now AND I have the added benefit of discovering a new trick for when stuck.
 
